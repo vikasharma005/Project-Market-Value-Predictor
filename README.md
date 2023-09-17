@@ -24,7 +24,7 @@ To get started with the Project Market Value Predictor, follow these steps:
 
 1. Clone the repository:
 ``` shell
-git clone https://github.com/ESKINDERTSEGAYE/Project-Market-Value-Predictor.git
+git clone https://github.com/vikasharma005/Project-Market-Value-Predictor.git
 ```
 2. Install the required dependencies. Ensure you have Python 3.x and pip installed. Run the following command in your terminal:
 ``` shell
